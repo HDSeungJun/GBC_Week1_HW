@@ -6,7 +6,8 @@
 
 1. 리눅스란 무엇인가?
     - 리누스 토로발스를 주체로 개발된 유닉스 계열의 오픈 소스 OS이다.
-    ![liniux_logo](https://w.namu.la/s/7b64f475bbebb7e7d90a484624531c227347febcaa8f2bebb1ee0295a71aac0368ce43d3b52b04d503ff8787e31276054f8f414c66711a26db4a33774ed62694d4b40f66296a25cdff881e8f2dfa0ddf26ef941d7de1df4569459c9bc50c1cc4)
+    
+![liniux_logo](https://w.namu.la/s/7b64f475bbebb7e7d90a484624531c227347febcaa8f2bebb1ee0295a71aac0368ce43d3b52b04d503ff8787e31276054f8f414c66711a26db4a33774ed62694d4b40f66296a25cdff881e8f2dfa0ddf26ef941d7de1df4569459c9bc50c1cc4)
     - 리눅스 커널: 프로세스 관리, 파일 시스템 관리, 메모리 관리 등
 
 ---
@@ -41,6 +42,7 @@
         - 자유 소프트웨어 개발 프로젝트
         - [GNU 선언문](https://www.gnu.org/gnu/manifesto.ko.html)
     - 다양한 배포판
+    
         ![리눅스배포판타임라인](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Linux_Distribution_Timeline.svg/800px-Linux_Distribution_Timeline.svg.png)
     - 다양한 플랫폼
 
